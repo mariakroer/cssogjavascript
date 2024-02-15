@@ -1,2 +1,4 @@
-# cssogjavascript
-Fra undervisning på MDU 1 semester intro 
+# Responsiv CSS og introduktion til JavaScript
+
+Her er filerne til Værktøjskasse 3.
+
